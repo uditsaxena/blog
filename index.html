@@ -9,7 +9,7 @@ title: "Udit Saxena"
   <ul>
   {% for post in site.posts %}
     <li>
-		<span>{{ post.date | date: "%B %e, %Y" }}</span><a href="{{ post.url }}">{{ post.title }}</a>
+		<span>{{ post.date | date: "%B %e, %Y" }}</span><a href="/_posts/{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
   </ul>
