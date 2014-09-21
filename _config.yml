@@ -1,4 +1,4 @@
-baesurl: /blog
+baesurl: /blog/posts
 markdown: rdiscount
 pygments: true
 permalink: /blog/:title
