@@ -1,6 +1,7 @@
+baseurl: /blog
 markdown: markdown,rdiscount
 pygments: true
-permalink: blog/post/:title
+permalink: :title
 auto: true
 rdiscount:
   extensions: [smart]
