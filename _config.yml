@@ -1,7 +1,4 @@
 baseurl: /blog
-markdown: markdown,rdiscount
+markdown: markdown
 pygments: true
 permalink: /blog/:title
-auto: true
-rdiscount:
-  extensions: [smart]
