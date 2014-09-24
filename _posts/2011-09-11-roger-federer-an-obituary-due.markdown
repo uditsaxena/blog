@@ -1,24 +1,6 @@
 ---
 layout: post
 title: Roger Federer - An obituary due??
-date: 2011-09-11 14:25:02.000000000 +05:30
-categories:
-- Sports
-tags:
-- fall
-- roger federer
-- sports
-- tennis
-status: publish
-type: post
-published: true
-meta:
-  _wpas_skip_twitter: '1'
-  _wpas_done_fb: '1'
-  _wpas_done_linkedin: '1'
-  tagazine-media: a:7:{s:7:"primary";s:0:"";s:6:"images";a:1:{s:56:"http://uditsaxena.files.wordpress.com/2011/09/rflogo.gif";a:6:{s:8:"file_url";s:56:"http://uditsaxena.files.wordpress.com/2011/09/rflogo.gif";s:5:"width";s:3:"200";s:6:"height";s:3:"200";s:4:"type";s:5:"image";s:4:"area";s:5:"40000";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"1";s:6:"author";s:8:"23560246";s:7:"blog_id";s:8:"23331232";s:9:"mod_stamp";s:19:"2011-09-11
-    08:55:02";}
-author: 
 ---
 <p>As I sit typing, drowning my sorrow with RHCP, the last few shots of the Federer vs Djokovic match flash by. The loss confirmed a fact long since avoided by his greatest and most devoted of followers and thought about, albeit secretly, and whispered quietly at the end of each damned match, all the while trying to run from something unstoppable, hoping against hope that the next match would save them and prove them wrong - the fall of Roger Federer.</p>
 <p><img class="alignleft" title="This should have been on a crest." src="/images/assets/rflogo.gif?w=200" alt="" width="200" height="200" /></p>

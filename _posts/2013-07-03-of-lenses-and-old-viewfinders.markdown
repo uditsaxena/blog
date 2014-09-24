@@ -1,30 +1,6 @@
 ---
 layout: post
 title: Of lenses and old viewfinders...
-date: 2013-07-03 00:13:32.000000000 +05:30
-categories:
-- Photography
-tags:
-- AF lenses
-- Lumix
-- Minolta
-- nostalgia
-- old cameras
-- old lenses
-- Olympus
-- Panasonic
-- Pentax
-- Zeiss-IKON
-status: publish
-type: post
-published: true
-meta:
-  _publicize_pending: '1'
-  _wpas_done_807828: '1'
-  _publicize_done_external: a:1:{s:8:"linkedin";a:1:{s:10:"tRrWpE286i";b:1;}}
-  _wpas_skip_807829: '1'
-  _wpas_skip_807828: '1'
-author: 
 ---
 <p>I've been planning on doing this for a while now, but only just got time.</p>
 <p>It was my dad and my aunts who told me that my grandfather was into photography. That's how my dad got interested in it. Watching him got me interested.</p>

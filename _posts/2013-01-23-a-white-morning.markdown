@@ -1,14 +1,6 @@
 ---
 layout: post
 title: A white morning.
-date: 2013-01-23 23:20:36.000000000 +05:30
-categories: []
-tags: []
-status: trash
-type: post
-published: false
-meta: {}
-author: 
 ---
 <p>He rolled over under his blankets, trying to keep all gaps blocked. Even under two layers, he could still feel the extreme cold outside. With one eye, he looked at the time. Six-thirty. He groaned, "Not today!", pulling the blanket over his head. After a few minutes trying to drfit back to sleep, he realised that today was not his day.He got out of bed reluctantly, making sure no part of his body was exposed for more than 5 seconds.</p>
 <p>Just when he had almost forgotten about it, his unnatural habit of not being able to sleep for more than six hours had struck again. Just when he was alone, with everyone having gone back home for the winter break. <em>Why did I ever sign up for that project ?</em> he thought for the hundredth time. Another glance at his watch - thirtieth of December. <i>Damn, its cold!. </i>He reached for his socks, muffler, cap and gloves.Once covered properly, he opened his door to go to the bathroom, bracing himself for the cold outside.</p>

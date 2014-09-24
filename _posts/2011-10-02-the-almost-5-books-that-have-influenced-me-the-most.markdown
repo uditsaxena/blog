@@ -1,22 +1,6 @@
 ---
 layout: post
 title: The (almost) 5 books that have influenced me the most..
-date: 2011-10-02 15:24:56.000000000 +05:30
-categories:
-- Literature
-tags:
-- books
-- inspiration
-- life changing
-status: publish
-type: post
-published: true
-meta:
-  tagazine-media: a:7:{s:7:"primary";s:63:"http://uditsaxena.files.wordpress.com/2011/10/thekiterunner.jpg";s:6:"images";a:1:{s:63:"http://uditsaxena.files.wordpress.com/2011/10/thekiterunner.jpg";a:6:{s:8:"file_url";s:63:"http://uditsaxena.files.wordpress.com/2011/10/thekiterunner.jpg";s:5:"width";s:3:"325";s:6:"height";s:3:"500";s:4:"type";s:5:"image";s:4:"area";s:6:"162500";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"4";s:6:"author";s:8:"23560246";s:7:"blog_id";s:8:"23331232";s:9:"mod_stamp";s:19:"2011-10-02
-    09:54:58";}
-  _wpas_done_fb: '1'
-  _wpas_done_linkedin: '1'
-author: 
 ---
 <p><em>This is part of  the daily post's post-a-day journal. So here goes!!</em></p>
 <p>&nbsp;</p>

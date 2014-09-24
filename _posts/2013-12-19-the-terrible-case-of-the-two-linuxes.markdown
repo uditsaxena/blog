@@ -1,32 +1,6 @@
 ---
 layout: post
 title: The terrible case of the two linux(e)s.
-date: 2013-12-19 18:21:20.000000000 +05:30
-categories:
-- Arch Linux
-- General Humor
-- Linux
-- Technology
-tags:
-- archlinux
-- GRUB
-status: publish
-type: post
-published: true
-meta:
-  _publicize_pending: '1'
-  _wpas_facebook_publicize_failure: ! 'O:13:"Keyring_Error":2:{s:6:"errors";a:1:{s:21:"keyring-request-error";a:1:{i:0;a:5:{s:7:"headers";a:11:{s:27:"access-control-allow-origin";s:1:"*";s:13:"cache-control";s:8:"no-store";s:12:"content-type";s:31:"application/json;
-    charset=UTF-8";s:7:"expires";s:29:"Sat, 01 Jan 2000 00:00:00 GMT";s:6:"pragma";s:8:"no-cache";s:16:"www-authenticate";s:156:"OAuth
-    "Facebook Platform" "invalid_token" "Error validating access token: Session has
-    expired at unix time 1344171817. The current unix time is 1387457482."";s:8:"x-fb-rev";s:7:"1053270";s:10:"x-fb-debug";s:44:"Ah/mQfhuH4SjXgXaw37VTG5qx7aQC0xqTlToKPgmP7A=";s:4:"date";s:29:"Thu,
-    19 Dec 2013 12:51:22 GMT";s:10:"connection";s:5:"close";s:14:"content-length";s:3:"191";}s:4:"body";s:191:"{"error":{"message":"Error
-    validating access token: Session has expired at unix time 1344171817. The current
-    unix time is 1387457482.","type":"OAuthException","code":190,"error_subcode":463}}";s:8:"response";a:2:{s:4:"code";i:401;s:7:"message";s:12:"Unauthorized";}s:7:"cookies";a:0:{}s:8:"filename";N;}}}s:10:"error_data";a:0:{}}'
-  publicize_facebook_url: https://facebook.com/
-  publicize_linkedin_url: http://www.linkedin.com/updates?discuss=&scope=61270100&stype=M&topic=5819418469086547968&type=U&a=adwf
-  _wpas_done_807828: '1'
-  _publicize_done_external: a:1:{s:8:"linkedin";a:1:{s:10:"tRrWpE286i";b:1;}}
-author: 
 ---
 <p>Houston, we have lift-off.</p>
 <p>Not after quite a few hiccups, that is. On Monday, I formatted my laptop, removing my current install of Windows 7 and  Arch Linux. Having a rescue disk and a bootable USB at hand I was not worried.</p>

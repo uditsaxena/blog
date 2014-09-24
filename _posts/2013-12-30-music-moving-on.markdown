@@ -1,26 +1,6 @@
 ---
 layout: post
 title: ! 'Music: moving on.'
-date: 2013-12-30 12:58:23.000000000 +05:30
-categories:
-- Music
-tags:
-- new music
-- new year
-status: publish
-type: post
-published: true
-meta:
-  _publicize_pending: '1'
-  publicize_facebook_url: https://facebook.com/10152519396059128
-  _wpas_done_5691974: '1'
-  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:724569127;b:1;}}
-  publicize_twitter_user: saxenaudit
-  publicize_twitter_url: http://t.co/ogPeO3xkFj
-  _wpas_done_5691971: '1'
-  publicize_linkedin_url: http://www.linkedin.com/updates?discuss=&scope=61270100&stype=M&topic=5823323499590086656&type=U&a=94Ve
-  _wpas_done_807828: '1'
-author: 
 ---
 <p>This might end up being too extreme, but I've decided to stop listening to any track in my Music collection.</p>
 <p>It's been a while since I've really listened to something new, something I really really took to. The first time that happened was to Linkin Park, back in early 2000s, then Metallica, then Maiden and Tool; Pink Floyd and Simon and Garfunkel followed soon after, and later some Blues; now, after three years of peer pressure, EDM.</p>

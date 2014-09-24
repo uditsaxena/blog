@@ -1,28 +1,6 @@
 ---
 layout: post
 title: My list of Incompletes.
-date: 2014-01-11 00:37:29.000000000 +05:30
-categories:
-- Literature
-tags:
-- books
-- Milan Kundera
-- reading
-- unfinished
-status: publish
-type: post
-published: true
-meta:
-  _publicize_pending: '1'
-  publicize_facebook_url: https://facebook.com/10152549832294128
-  _wpas_done_5691974: '1'
-  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:724569127;b:1;}}
-  publicize_twitter_user: saxenaudit
-  publicize_twitter_url: http://t.co/EPScfv6SFf
-  _wpas_done_5691971: '1'
-  publicize_linkedin_url: http://www.linkedin.com/updates?discuss=&scope=61270100&stype=M&topic=5827485698239766528&type=U&a=KQHI
-  _wpas_done_807828: '1'
-author: 
 ---
 <p><a href="http://uditsaxena.files.wordpress.com/2014/01/dsc05628.jpg"><img class=" wp-image  " id="i-655" alt="" src="/images/assets/dsc05628.jpg?w=650" width="650" height="980" /></a> This year's reading list.</p>
 <p>I have been trying to do this for a while, but finally, I think, making a comprehensive and loud commitment out of this would help me read all the books I've bought (sometimes on an impulse) and not read.</p>

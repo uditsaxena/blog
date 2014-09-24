@@ -1,22 +1,6 @@
 ---
 layout: post
 title: A week since I became an Archer !!!
-date: 2012-03-09 12:29:27.000000000 +05:30
-categories:
-- Technology
-tags:
-- arch linux
-- intro to arch
-- tech
-status: publish
-type: post
-published: true
-meta:
-  _wpas_skip_twitter: '1'
-  _wpas_skip_fb: '1'
-  _wpas_skip_linkedin: '1'
-  _oembed_ad26f3ab828651063571e2e6c90ed17e: ! '{{unknown}}'
-author: 
 ---
 <p>Last week I shifted, after a lot of contemplation (and hardwork), over to Arch Linux.</p>
 <p>Given it wasn't that easy - once my Ubuntu Grub disappeared, I had to reinstall my Arch distro around 8 times to figure out where I was going wrong - and yes, at one moment of time I actually had 4 different OSes booted on separate partitions on my laptop !! In the end I finally had to settle with Archbang Linux, based on the Arch kernel but with a different Window Manager.</p>

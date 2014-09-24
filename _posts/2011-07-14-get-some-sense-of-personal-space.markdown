@@ -1,20 +1,6 @@
 ---
 layout: post
 title: Get some sense of personal space!!!
-date: 2011-07-14 02:15:44.000000000 +05:30
-categories:
-- General Humor
-tags:
-- metro
-- overcrowding
-status: publish
-type: post
-published: true
-meta:
-  _wpas_done_fb: '1'
-  _wpas_skip_twitter: '1'
-  _wpas_skip_linkedin: '1'
-author: 
 ---
 <p>People in Delhi's metros have ABSOLUTELY no sense of personal space!! Getting out or rather,  being lugged out of the metro bogey last evening while returning during the formidable metro-rush hour (that's 8 to 11 and 5 to 8 for non-frequenters) I actually felt something close to violently puke-ish.</p>
 <p>Though a recurrent and, sadly much too dependent,  metro patron, I've yet to see a passenger who's balked at entering a full metro compartment. Even if its only to be pressed against the door. Or against someone who hasn't heard of a deodorant.</p>

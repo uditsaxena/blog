@@ -1,22 +1,6 @@
 ---
 layout: post
 title: A trip to Dehradun.
-date: 2013-12-29 12:18:29.000000000 +05:30
-categories:
-- Photography
-- Travel
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _publicize_pending: '1'
-  _wpas_skip_5691974: '1'
-  _wpas_skip_5691971: '1'
-  publicize_linkedin_url: http://www.linkedin.com/updates?discuss=&scope=61270100&stype=M&topic=5822951028437291008&type=U&a=MJQ7
-  _wpas_done_807828: '1'
-  _publicize_done_external: a:1:{s:8:"linkedin";a:1:{s:10:"tRrWpE286i";b:1;}}
-author: 
 ---
 <p>&nbsp;</p>
 <p>I was at my aunt's place in DehraDun, hence the brief silence. But I got busy with my camera there.</p>

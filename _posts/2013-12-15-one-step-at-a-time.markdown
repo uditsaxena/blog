@@ -1,20 +1,6 @@
 ---
 layout: post
 title: One step at a time...
-date: 2013-12-15 23:37:01.000000000 +05:30
-categories: []
-tags:
-- Winter
-status: publish
-type: post
-published: true
-meta:
-  _publicize_pending: '1'
-  publicize_facebook_url: https://facebook.com/
-  publicize_linkedin_url: http://www.linkedin.com/updates?discuss=&scope=61270100&stype=M&topic=5818048369242685440&type=U&a=zHwx
-  _wpas_done_807828: '1'
-  _publicize_done_external: a:1:{s:8:"linkedin";a:1:{s:10:"tRrWpE286i";b:1;}}
-author: 
 ---
 <p>Phew. That semester was quite...overwhelming. And probably the best of them all. In every way except one. (Don't ask) </p>
 <p> </p>

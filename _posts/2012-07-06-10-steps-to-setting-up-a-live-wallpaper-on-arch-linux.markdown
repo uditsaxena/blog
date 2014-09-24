@@ -1,24 +1,6 @@
 ---
 layout: post
 title: 10 steps to setting up a live wallpaper on [Arch] Linux.
-date: 2012-07-06 17:00:34.000000000 +05:30
-categories:
-- Arch Linux
-- Linux
-- Technology
-tags:
-- arch linux
-- changing wallpaper
-- linux
-- live wallpaper
-- wget
-- xPlanetFx
-status: publish
-type: post
-published: true
-meta:
-  _wpas_done_facebook: '1'
-author: 
 ---
 <p>One reason why people switch over to Linux is the cool customization and tweaking capabilities offered.</p>
 <p>One of my first tweaks on Arch was setting up a live desktop. I could have used so many conky configurations, so many skins and themes.. but this simple trick was.. elegant.</p>

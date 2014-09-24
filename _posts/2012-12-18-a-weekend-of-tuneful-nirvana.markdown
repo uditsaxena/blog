@@ -1,18 +1,6 @@
 ---
 layout: post
 title: A weekend of tuneful nirvana.
-date: 2012-12-18 10:00:16.000000000 +05:30
-categories:
-- Music
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _publicize_pending: '1'
-  _wpas_done_807828: '1'
-  _publicize_done_external: a:1:{s:8:"linkedin";a:1:{s:10:"tRrWpE286i";b:1;}}
-author: 
 ---
 <p><em>This is the Bacardi NH7 Weekender Delhi I attended, in October. I know this post is very late. A whole of 2 months late. But I had to put these up.</em></p>
 <p>&nbsp;</p>

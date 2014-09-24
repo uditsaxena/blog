@@ -1,26 +1,6 @@
 ---
 layout: post
 title: A few lessons from this summer..
-date: 2012-08-06 18:09:16.000000000 +05:30
-categories:
-- General Humor
-- In General
-- Literature
-- Sports
-tags:
-- dark side of the moon
-- drive
-- federer
-- hobbies
-- music
-- pink floyd
-- summer
-- thoughts
-status: publish
-type: post
-published: true
-meta: {}
-author: 
 ---
 <p>Okay. I had 11 weeks off from college this summer. 8 of those involved an internship. Needless to say my summer was wrecked. And hectic.</p>
 <p>With my internship taking up more than half of my days from Monday to Saturday ( yes a <em>6-day</em> week ! ) I never actually had time to catch up on all those carefully crafted plans and indulgent lists made before the internship, during the first week or so. Those lists and plans got flagged down or ended up as botched attempts as soon as I realized I travelled 2 hours to my place of work, each way.</p>

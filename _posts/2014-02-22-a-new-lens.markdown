@@ -1,28 +1,6 @@
 ---
 layout: post
 title: A new lens !
-date: 2014-02-22 03:12:15.000000000 +05:30
-categories:
-- Photography
-tags:
-- 50mm
-- bokeh
-- prime lens
-status: publish
-type: post
-published: true
-meta:
-  _publicize_pending: '1'
-  publicize_facebook_url: https://facebook.com/10152656561769128
-  _wpas_done_5691974: '1'
-  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:724569127;b:1;}}
-  publicize_twitter_user: saxenaudit
-  publicize_twitter_url: http://t.co/2m1vb4RtqY
-  _wpas_done_5691971: '1'
-  publicize_linkedin_url: http://www.linkedin.com/updates?discuss=&scope=61270100&stype=M&topic=5842744912503652352&type=U&a=FBWY
-  _wpas_done_807828: '1'
-  _oembed_272fec853c7709abdb832abfde95e36c: ! '{{unknown}}'
-author: 
 ---
 <p>When I tell you how far and long this lens had to travel to sit snugly on my A-37, you'll be left scratching your head.</p>
 <p>Don't worry, I won't.</p>

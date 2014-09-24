@@ -1,25 +1,6 @@
 ---
 layout: post
 title: I am an amateur Vintner. This is my wine.
-date: 2013-03-10 18:49:32.000000000 +05:30
-categories:
-- In General
-tags:
-- photography
-- shooting alcohol
-- vinification
-- white wine
-- wine making
-status: publish
-type: post
-published: true
-meta:
-  _publicize_pending: '1'
-  tagazine-media: a:7:{s:7:"primary";s:58:"http://uditsaxena.files.wordpress.com/2013/03/dsc01599.jpg";s:6:"images";a:11:{s:58:"http://uditsaxena.files.wordpress.com/2013/03/dsc01565.jpg";a:6:{s:8:"file_url";s:58:"http://uditsaxena.files.wordpress.com/2013/03/dsc01565.jpg";s:5:"width";i:3568;s:6:"height";i:2368;s:4:"type";s:5:"image";s:4:"area";i:8449024;s:9:"file_path";b:0;}s:58:"http://uditsaxena.files.wordpress.com/2013/03/dsc01596.jpg";a:6:{s:8:"file_url";s:58:"http://uditsaxena.files.wordpress.com/2013/03/dsc01596.jpg";s:5:"width";i:3568;s:6:"height";i:2368;s:4:"type";s:5:"image";s:4:"area";i:8449024;s:9:"file_path";b:0;}s:58:"http://uditsaxena.files.wordpress.com/2013/03/dsc01590.jpg";a:6:{s:8:"file_url";s:58:"http://uditsaxena.files.wordpress.com/2013/03/dsc01590.jpg";s:5:"width";i:2368;s:6:"height";i:3568;s:4:"type";s:5:"image";s:4:"area";i:8449024;s:9:"file_path";b:0;}s:58:"http://uditsaxena.files.wordpress.com/2013/03/dsc01588.jpg";a:6:{s:8:"file_url";s:58:"http://uditsaxena.files.wordpress.com/2013/03/dsc01588.jpg";s:5:"width";i:2368;s:6:"height";i:3568;s:4:"type";s:5:"image";s:4:"area";i:8449024;s:9:"file_path";b:0;}s:58:"http://uditsaxena.files.wordpress.com/2013/03/dsc01589.jpg";a:6:{s:8:"file_url";s:58:"http://uditsaxena.files.wordpress.com/2013/03/dsc01589.jpg";s:5:"width";i:2368;s:6:"height";i:3568;s:4:"type";s:5:"image";s:4:"area";i:8449024;s:9:"file_path";b:0;}s:58:"http://uditsaxena.files.wordpress.com/2013/03/dsc01587.jpg";a:6:{s:8:"file_url";s:58:"http://uditsaxena.files.wordpress.com/2013/03/dsc01587.jpg";s:5:"width";i:2368;s:6:"height";i:3568;s:4:"type";s:5:"image";s:4:"area";i:8449024;s:9:"file_path";b:0;}s:58:"http://uditsaxena.files.wordpress.com/2013/03/dsc01581.jpg";a:6:{s:8:"file_url";s:58:"http://uditsaxena.files.wordpress.com/2013/03/dsc01581.jpg";s:5:"width";i:2368;s:6:"height";i:3568;s:4:"type";s:5:"image";s:4:"area";i:8449024;s:9:"file_path";b:0;}s:58:"http://uditsaxena.files.wordpress.com/2013/03/dsc01572.jpg";a:6:{s:8:"file_url";s:58:"http://uditsaxena.files.wordpress.com/2013/03/dsc01572.jpg";s:5:"width";i:3568;s:6:"height";i:2368;s:4:"type";s:5:"image";s:4:"area";i:8449024;s:9:"file_path";b:0;}s:58:"http://uditsaxena.files.wordpress.com/2013/03/dsc01568.jpg";a:6:{s:8:"file_url";s:58:"http://uditsaxena.files.wordpress.com/2013/03/dsc01568.jpg";s:5:"width";i:3568;s:6:"height";i:2368;s:4:"type";s:5:"image";s:4:"area";i:8449024;s:9:"file_path";b:0;}s:58:"http://uditsaxena.files.wordpress.com/2013/03/dsc01562.jpg";a:6:{s:8:"file_url";s:58:"http://uditsaxena.files.wordpress.com/2013/03/dsc01562.jpg";s:5:"width";i:3568;s:6:"height";i:2368;s:4:"type";s:5:"image";s:4:"area";i:8449024;s:9:"file_path";b:0;}s:58:"http://uditsaxena.files.wordpress.com/2013/03/dsc01599.jpg";a:6:{s:8:"file_url";s:58:"http://uditsaxena.files.wordpress.com/2013/03/dsc01599.jpg";s:5:"width";i:3568;s:6:"height";i:2368;s:4:"type";s:5:"image";s:4:"area";i:8449024;s:9:"file_path";b:0;}}s:6:"videos";a:0:{}s:11:"image_count";i:11;s:6:"author";s:8:"23560246";s:7:"blog_id";s:8:"23331232";s:9:"mod_stamp";s:19:"2013-03-10
-    13:19:32";}
-  _wpas_done_807828: '1'
-  _publicize_done_external: a:1:{s:8:"linkedin";a:1:{s:10:"tRrWpE286i";b:1;}}
-author: 
 ---
 <p>This isn't your usual vintner's (if you do call a vintner usual!)post - how s/he posts the recipe used and goes about each step telling the good and bad of the what, how and when of making wine at home.</p>
 <p>I have been making wine at home for a year now. This is the latest batch.</p>

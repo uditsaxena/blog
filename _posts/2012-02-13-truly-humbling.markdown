@@ -1,22 +1,6 @@
 ---
 layout: post
 title: Truly Humbling.
-date: 2012-02-13 01:44:16.000000000 +05:30
-categories:
-- In General
-tags:
-- eagle of nebula
-- hubble space telescope
-- pillar of creation
-- space
-status: publish
-type: post
-published: true
-meta:
-  publicize_results: a:1:{s:2:"fb";a:1:{i:724569127;a:2:{s:7:"user_id";s:9:"724569127";s:7:"post_id";s:17:"10150819249249128";}}}
-  _wpas_done_fb: '1'
-  _wpas_done_linkedin: '1'
-author: 
 ---
 <p>Have you heard of the "Pillars of Creation" ? The "Eagle Nebula" ? What about this image - have you seen it somewhere ?</p>
 <p><a href="http://uditsaxena.files.wordpress.com/2012/02/6a00d8341bf7f753ef0133f57d5f31970b-800wi.jpg"><img class="size-full wp-image-88" title="The pillars of creation." src="/images/assets/6a00d8341bf7f753ef0133f57d5f31970b-800wi.jpg" alt="" width="400" height="307" /></a></p>

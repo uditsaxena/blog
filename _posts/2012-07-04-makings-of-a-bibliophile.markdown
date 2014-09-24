@@ -1,22 +1,6 @@
 ---
 layout: post
 title: Makings of a bibliophile ??
-date: 2012-07-04 18:48:48.000000000 +05:30
-categories:
-- Literature
-tags:
-- bibliophile
-- books
-- cataloging
-- reading
-status: publish
-type: post
-published: true
-meta:
-  tagazine-media: a:7:{s:7:"primary";s:60:"http://uditsaxena.files.wordpress.com/2012/07/img_0777-1.jpg";s:6:"images";a:1:{s:60:"http://uditsaxena.files.wordpress.com/2012/07/img_0777-1.jpg";a:6:{s:8:"file_url";s:60:"http://uditsaxena.files.wordpress.com/2012/07/img_0777-1.jpg";s:5:"width";s:4:"2592";s:6:"height";s:4:"1936";s:4:"type";s:5:"image";s:4:"area";s:7:"5018112";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"1";s:6:"author";s:8:"23560246";s:7:"blog_id";s:8:"23331232";s:9:"mod_stamp";s:19:"2012-07-04
-    13:18:48";}
-  _wpas_done_facebook: '1'
-author: 
 ---
 <p>It was April, and I was back home for the last time before my my end semester exams. My mom and brother were leaving for Lucknow to meet a few relatives so it was gonna be me and my dad alone in the house for about a week. I was hanging around the house when I took up a long forgotten idea of mine.</p>
 <p>I started cataloging my collection of books; mine -that is both me and my dad's - collected over the last 3 decades or so. My dad too was supportive and with mom being absent to fuss over the mess, it was the perfect time.</p>

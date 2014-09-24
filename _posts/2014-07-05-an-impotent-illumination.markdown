@@ -1,28 +1,6 @@
 ---
 layout: post
 title: An Impotent Illumination.
-date: 2014-07-05 01:26:39.000000000 +05:30
-categories:
-- Literature
-- short story
-tags:
-- fiction
-- short story
-status: publish
-type: post
-published: true
-meta:
-  geo_public: '0'
-  _publicize_pending: '1'
-  publicize_facebook_url: https://facebook.com/10152992785114128
-  _wpas_done_5691974: '1'
-  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:724569127;b:1;}}
-  publicize_twitter_user: saxenaudit
-  publicize_twitter_url: http://t.co/BY4KwO8KkO
-  _wpas_done_5691971: '1'
-  publicize_linkedin_url: http://www.linkedin.com/updates?discuss=&scope=61270100&stype=M&topic=5890915926055866368&type=U&a=KDvy
-  _wpas_done_807828: '1'
-author: 
 ---
 <p><em>So this one has been a while in coming. And honestly, only because a friend pushed me. This is a short story (utter crass, I say, !) I wrote for a magazine that, in the end, decided not to publish it. </em></p>
 <p><em>Meh. Kids these days.</em></p>

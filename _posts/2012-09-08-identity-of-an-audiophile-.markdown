@@ -1,14 +1,6 @@
 ---
 layout: post
 title: Identity of an Audiophile.
-date: 2012-09-08 14:36:03.000000000 +05:30
-categories: []
-tags: []
-status: draft
-type: post
-published: false
-meta: {}
-author: 
 ---
 <p>Most people who know me well, would tell you I am an audiophile. Music has, in the last decade, majorly defined my life. From my first favorite song from Meteora - Somewhere I Belong, I have come a long way.</p>
 <p>Do you believe your music defines you, your personality ? I do. And as I realized after an interesting conversation with a good friend</p>

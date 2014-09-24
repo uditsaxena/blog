@@ -1,18 +1,6 @@
 ---
 layout: post
 title: Cause Hollywood wouldn't be able to make any more movies..
-date: 2011-08-07 22:44:22.000000000 +05:30
-categories:
-- General Humor
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _wpas_done_fb: '1'
-  _wpas_done_linkedin: '1'
-  _wpas_skip_twitter: '1'
-author: 
 ---
 <p>I know it's been a long time since I last posted but I hope to be more regular in the future.... I was coping with a few illnesses and then had to go back to college.</p>
 <p>Recently me and my friend were watching this movie about this guy who uses this magic pill to enhance his mind(NOT a drug) and do all sorts of stuff pretty easily - but then his stash of pills runs out and then he screws up. His life falls apart and he basically loses everything he had- the dream job, the dream girl, the fancy car, the big apartment and most importantly social status. So cliche.</p>
